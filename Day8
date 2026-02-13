@@ -1,0 +1,16 @@
+                                 Today’s Schedule: Striver Basic Array Practice
+Date:13-02026 
+Wake Up time: 08:00
+
+        largest_Element(arr);
+        second_largest_brute(arr);
+        second_largest(arr);
+        check_arr_isSorted_Or_Not(arr);
+        remove_Duplicate_From_Sorted_arr_brute(arr);
+        remove_Duplicate_From_Sorted_arr_Optimal(arr);
+        left_rotate_array_by_one();
+        left_rotate_array_by_d_place(4);
+        left_rotate_array_by_d_place_optimal(4);
+        move_zeros_to_end();
+        move_zeros_to_end_optimised();
+        Linear_Search(); 
