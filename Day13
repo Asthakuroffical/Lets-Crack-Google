@@ -1,33 +1,35 @@
                                                         Daily Timetable 🗓️
 
-⦁10:00 AM – 12:00 PM: HTML Fundamentals & Tags 🧱
+➤10:00 AM – 12:00 PM: HTML Fundamentals & Tags 🧱
 
   ◉ Topics:
-    ▪ Hello World printing
-    ▪ Boilerplate code
-▪Lists: ordered (ol) and unordered (ul)
-▪Anchor element (a)
-▪Image tag (img)
-MoreTag basics: bold (b), italic (i), underline (u)
-Line breaks: nextline (br)
-Horizontal rule: a sepration (hr)
-Case sensitivity: HTML is not case sensitive
-Build your own portfolio
-Activities: read explanations, write small snippets, run validations
-18:00 PM – 21:00 PM: Inline vs Block & Semantic Essentials 🧭
+     ▪ Hello World printing
+     ▪ Boilerplate code
+     ▪ Lists: ordered (ol) and unordered (ul)
+     ▪ Anchor element (a)
+     ▪ Image tag (img)
+     ▪ MoreTag basics: bold (b), italic (i), underline (u)
+     ▪ Line breaks: nextline (br)
+     ▪ Horizontal rule: a sepration (hr)
+     ▪ Case sensitivity: HTML is not case sensitive
+     ▪ Build your own portfolio
 
-Topics:
-Inline vs block elements
-div vs span difference
-hr tag
-sub and sup
-semantic markup
-semantic tags
-entities
-Emmet
-Activities: compare examples, create practice pages, apply semantic tags
-23:00 PM – 01:00 AM: LeetCode/Striver Practice (Array) 🔥
-
-Problems:
-Leetcode 73: Set Matrix Zeroes
-Leetcode 48: Rotate Image
+➤ 18:00 PM – 21:00 PM: Inline vs Block & Semantic Essentials 🧭
+  ◉ Topics:
+     ▪ Inline vs block elements
+     ▪ div vs span difference
+     ▪ hr tag
+     ▪ sub and sup
+     ▪ semantic markup
+     ▪ semantic tags
+     ▪ entities
+     ▪ Emmet
+   ◉ Activities:
+           compare examples,
+           create practice pages,
+           apply semantic tags
+➤ 23:00 PM – 01:00 AM:
+  ◉ LeetCode/Striver Practice (Array) 🔥
+  ◉ Problems:
+      ▪ Leetcode 73: Set Matrix Zeroes
+      ▪ Leetcode 48: Rotate Image
